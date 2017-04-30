@@ -1,4 +1,5 @@
 dist*
 .hsenv*
 .cabal*
+.stack-work*
 cabal.sandbox.config
